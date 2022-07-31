@@ -15,4 +15,4 @@ The following application focuses on the development of a Fitness Application Us
 ## Application Board 
 
 ### Dark Mode Application Output 
-<img src="https://github.com/jxson7/ToDoList-App/blob/main/img/demo_dark.jpg" width="400" >
+<img src="https://github.com/jxson7/Fitness-Application-UI/blob/main/Fitness%20Application%20Board.png" width="400" >
